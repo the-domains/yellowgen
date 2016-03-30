@@ -1,0 +1,28 @@
+name: yellowgen
+favicon: null
+layout_spectrum: 0.10609321831725538
+typography_spectrum: 0.6388114143628627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7591330537106842
+  lightness: 0.1950854347087443
+  saturation: 0.5664891344495118
+  rhythmicContrast: 0.7339407845865935
+purpose: []
